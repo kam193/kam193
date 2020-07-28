@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
 ![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&count_private=true&show_icons=true&theme=dracula)
-Public activity
+
+public activity
+
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
