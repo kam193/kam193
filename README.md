@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&count_private=true&show_icons=true&theme=dracula)
+| *total* | *public only* |
+| - | - |
+| ![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&count_private=true&show_icons=true&theme=dracula) | ![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&show_icons=true&theme=buefy) |
 
 </div>
 
