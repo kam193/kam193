@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&show_icons=true&theme=dracula)
-
-public activity
+![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 </div>
 
