@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   
 ![kam193's github stats](https://github-readme-stats.vercel.app/api?username=kam193&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
+GPG key [0x048D710D6596CD7F](https://keys.openpgp.org/vks/v1/by-fingerprint/F2F00EE129DAFCCF8A7E7630048D710D6596CD7F)
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
